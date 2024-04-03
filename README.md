@@ -8,11 +8,11 @@ The inference of model transformation requires solving the *learning problem for
 
 ## Glossary
 
-* Metamodel: A metamodel is an abstract representation that defines the structure and terminology of concepts and relationships within a DSL (Domain-Specific Language);
-* Model ($M$): A model instantiated from a metamodel is a concrete representation of a system or object, constructed based on the concepts defined within the metamodel. A model encapsulates certain properties and information of an object of the real world;
-* Model transformation: Model transformations are employed to convert a source model $𝑀_s$ into a target model $𝑀_t$, typically for tasks such as translating between different domain-specific modeling languages;
-* Transformation model: Transformation models define the rules necessary to convert elements in a source model into corresponding elements in a target model. These models are typically defined in a dedicated transformation language specifically designed to describe rules between different models;
-* Transformation pattern: ransformation patterns are generic structures involved in model transformations. Each transformation rule can be described by a transformation pattern, consisting of a source pattern  $P_s$ (elements of the source metamodel) and a target pattern  $P_t$ (elements of the target metamodel).
+* **Metamodel**: A metamodel is an abstract representation that defines the structure and terminology of concepts and relationships within a DSL (Domain-Specific Language);
+* **Model** ($M$): A model instantiated from a metamodel is a concrete representation of a system or object, constructed based on the concepts defined within the metamodel. A model encapsulates certain properties and information of an object of the real world;
+* **Model transformation**: Model transformations are employed to convert a source model $𝑀_s$ into a target model $𝑀_t$, typically for tasks such as translating between different domain-specific modeling languages;
+* **Transformation model**: Transformation models define the rules necessary to convert elements in a source model into corresponding elements in a target model. These models are typically defined in a dedicated transformation language specifically designed to describe rules between different models;
+* **Transformation pattern**: ransformation patterns are generic structures involved in model transformations. Each transformation rule can be described by a transformation pattern, consisting of a source pattern  $P_s$ (elements of the source metamodel) and a target pattern  $P_t$ (elements of the target metamodel).
 
 ## Object of study
 
