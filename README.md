@@ -28,6 +28,24 @@ A common framework of understanding is needed to facilitate the comparison of ap
 
 Thanks to the characterization, two transformation models that share the same features regardless of the domain-specific metamodel are considered equivalent and can be compared in a benchmark study. A deeper understanding of the conflicts or "mismatches" to be resolved, which are caused by the heterogeneity of the metamodels is need to identify structural and terminological features.
 
+### Structural features
+
+<img src="images/Structural features.png" alt="structural_features" title="Structural features" style="width: 70%; height: auto;">
+
+**Table 1: Structural features**
+
+Some transformation patterns may be subject to conditions that can guide the transformation of a element or a group of elements. The transformation is thus based on the so-called concept-specific features. Three types of conditions have been identified: conditions for references, attributes and neighboring classes
+
+<img src="images/Transformation conditions.png" alt="transformation_conditions" title="Transformation conditions" style="width: 70%; height: auto;">
+
+**Table 2: Transformation conditions**
+
+### Terminological features
+
+<img src="images/Terminological features.png" alt="terminological_features" title="Terminological features" style="width: 70%; height: auto;">
+
+**Table 3: Terminological features**
+
 ## Performances measurement
 
 Performance criteria were established to measure the ability of the approaches to solve specific types of transformation patterns. The following performance criteria were used during the learning phase:
