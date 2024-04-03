@@ -285,3 +285,8 @@ For each indicator, a "?" symbol means that the value could not be determined.
 [9] L. Burgueno, J. Cabot, S. Li, and S. Gérard. A generic lstm neural network architecture to infer heterogeneous model transformations. *Software and Systems Modeling*, 2022. Github : https://github.com/modelia/ai-for-model-manipulation
 
 [10] Q. Brilhault, E. Yahia, L. Roucoules. La continuité numérique basée sur l'apprentissage de modèles de transformation: une approche d'interopérabilité dirigée par les modèles. Manuscrit de thèse, 2023. https://pastel.hal.science/tel-04511226
+
+## Contributors 
+Quentin Brilhault, Laboratory of Physical and Digital Systems Engineering (LISPEN), Arts et Métiers Institute of Technology
+Esma Yahia, Laboratory of Physical and Digital Systems Engineering (LISPEN), Arts et Métiers Institute of Technology
+Lionel Roucoules, Laboratory of Physical and Digital Systems Engineering (LISPEN), Arts et Métiers Institute of Technology
