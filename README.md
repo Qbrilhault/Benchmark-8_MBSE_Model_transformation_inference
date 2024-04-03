@@ -287,6 +287,9 @@ For each indicator, a "?" symbol means that the value could not be determined.
 [10] Q. Brilhault, E. Yahia, L. Roucoules. La continuité numérique basée sur l'apprentissage de modèles de transformation: une approche d'interopérabilité dirigée par les modèles. Manuscrit de thèse, 2023. https://pastel.hal.science/tel-04511226
 
 ## Contributors 
+
 Quentin Brilhault, Laboratory of Physical and Digital Systems Engineering (LISPEN), Arts et Métiers Institute of Technology
+
 Esma Yahia, Laboratory of Physical and Digital Systems Engineering (LISPEN), Arts et Métiers Institute of Technology
+
 Lionel Roucoules, Laboratory of Physical and Digital Systems Engineering (LISPEN), Arts et Métiers Institute of Technology
