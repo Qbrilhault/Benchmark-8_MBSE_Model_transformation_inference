@@ -42,7 +42,7 @@ Some transformation patterns may be subject to conditions that can guide the tra
 
 ### Terminological features
 
-<img src="images/Terminological features.png" alt="terminological_features" title="Terminological features" style="width: 70%; height: auto;">
+<img src="images/Terminological features.png" alt="terminological_features" title="Terminological features" style="width: 50%; height: auto;">
 
 **Table 3: Terminological features**
 
