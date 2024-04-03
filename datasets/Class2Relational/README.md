@@ -17,7 +17,7 @@ The characterization of the Class2Relational transformation rules below can be i
 The combination of rules (R2) and (R3) and rules (R2) and (R4) leads to patterns of type (c4) and (c6) respectively.
 
 
-<img src="images/Class2Relational transformation.png" alt="class2relational" title="Class2Relational transformation rules" style="width: 50%; height: auto;">
+<img src="images/Class2Relational transformation.png" alt="class2relational" title="Class2Relational transformation rules" style="width: 70%; height: auto;">
 
 **Table 1: Transformation rules for Class2Relational transformation**
 
