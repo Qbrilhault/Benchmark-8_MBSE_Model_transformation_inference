@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Families:Family
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:Families="Families"
+    xsi:schemaLocation="Families scenario%201%20(Stark%20family)/Families.ecore"
+    familyname="Stark">
+  <father firstname="Nedd"/>
+  <mother firstname="Catelyn"/>
+  <son firstname="Robb"/>
+  <son firstname="Bran"/>
+  <son firstname="Rickon"/>
+  <son firstname="Jon"/>
+  <daughter
+      firstname="Sansa"/>
+  <daughter
+      firstname="Arya"/>
+</Families:Family>

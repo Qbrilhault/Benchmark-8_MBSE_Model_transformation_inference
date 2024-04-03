@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Persons:Model
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:Persons="Persons"
+    xsi:schemaLocation="Persons scenario%201%20(Stark%20family)/Persons.ecore">
+  <person xsi:type="Persons:Man"
+      firstname="Nedd"
+      lastname="Stark"/>
+  <person xsi:type="Persons:Man"
+      firstname="Jon"
+      lastname="Stark"/>
+  <person xsi:type="Persons:Man"
+      firstname="Robb"
+      lastname="Stark"/>
+  <person xsi:type="Persons:Man"
+      firstname="Bran"
+      lastname="Stark"/>
+  <person xsi:type="Persons:Man"
+      firstname="Rickon"
+      lastname="Stark"/>
+  <person xsi:type="Persons:Woman"
+      firstname="Catelyn"
+      lastname="Stark"/>
+  <person xsi:type="Persons:Woman"
+      firstname="Sansa"
+      lastname="Stark"/>
+  <person xsi:type="Persons:Woman"
+      firstname="Arya"
+      lastname="Stark"/>
+</Persons:Model>

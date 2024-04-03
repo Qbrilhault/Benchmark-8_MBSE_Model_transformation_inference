@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ecore:EPackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" name="Families" nsURI="Families" nsPrefix="Families">
+  <eClassifiers xsi:type="ecore:EClass" name="Family">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="familyname" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="father" ordered="false"
+        lowerBound="1" eType="#//Member" containment="true" eOpposite="#//Member/fatherOf"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="mother" lowerBound="1"
+        eType="#//Member" containment="true" eOpposite="#//Member/motherOf"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="son" ordered="false" upperBound="-1"
+        eType="#//Member" containment="true" eOpposite="#//Member/sonOf"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="daughter" ordered="false"
+        upperBound="-1" eType="#//Member" containment="true" eOpposite="#//Member/daughterOf"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Member">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="firstname" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="fatherOf" eType="#//Family"
+        eOpposite="#//Family/father"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="motherOf" eType="#//Family"
+        eOpposite="#//Family/mother"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="sonOf" eType="#//Family"
+        eOpposite="#//Family/son"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="daughterOf" eType="#//Family"
+        eOpposite="#//Family/daughter"/>
+  </eClassifiers>
+</ecore:EPackage>

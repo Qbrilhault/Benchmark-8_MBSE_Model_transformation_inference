@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<relational:Model
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:relational="relational"
+    xsi:schemaLocation="relational /Class2Relational/Relational.ecore">
+  <elem xsi:type="relational:Type"
+      name="String"/>
+  <elem xsi:type="relational:Type"
+      name="Integer"/>
+  <elem xsi:type="relational:Table"
+      name="Book"
+      key="//@elem.2/@col.2">
+    <col name="Editor"
+        type="//@elem.0"/>
+    <col name="Title"
+        type="//@elem.0"/>
+    <col name="objectID"
+        keyOf="//@elem.2"
+        type="//@elem.1"/>
+  </elem>
+  <elem xsi:type="relational:Table"
+      name="Book_Authors">
+    <col name="Authors"
+        type="//@elem.0"/>
+    <col name="BookID"
+        type="//@elem.1"/>
+  </elem>
+</relational:Model>
