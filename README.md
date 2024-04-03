@@ -288,8 +288,8 @@ For each indicator, a "?" symbol means that the value could not be determined.
 
 ## Contributors 
 
-Quentin Brilhault, Laboratory of Physical and Digital Systems Engineering (LISPEN), Arts et Métiers Institute of Technology
+**Quentin Brilhault**, Laboratory of Physical and Digital Systems Engineering (LISPEN), Arts et Métiers Institute of Technology
 
-Esma Yahia, Laboratory of Physical and Digital Systems Engineering (LISPEN), Arts et Métiers Institute of Technology
+**Esma Yahia**, Laboratory of Physical and Digital Systems Engineering (LISPEN), Arts et Métiers Institute of Technology
 
-Lionel Roucoules, Laboratory of Physical and Digital Systems Engineering (LISPEN), Arts et Métiers Institute of Technology
+**Lionel Roucoules**, Laboratory of Physical and Digital Systems Engineering (LISPEN), Arts et Métiers Institute of Technology
